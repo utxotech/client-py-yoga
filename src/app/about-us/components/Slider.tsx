@@ -5,11 +5,7 @@ import "swiper/swiper-bundle.css";
 import Image from "next/image";
 import { Autoplay } from "swiper/modules";
 
-const images = [
-  "/images/main-home-video-gallery-1.jpg",
-  "/images/main-home-video-gallery-2.jpg",
-  "/images/main-home-video-gallery-3.jpg",
-];
+const images = ["/abouts-2.png", "/home-5.png", "/abouts-2.png"];
 
 const Slider = () => {
   return (
@@ -29,7 +25,7 @@ const Slider = () => {
         disableOnInteraction: false,
       }}
       modules={[Autoplay]}
-      className="h-[40vh] common-margin"
+      className="h-[60vh] common-margin"
     >
       <SwiperSlide className=" h-full w-full relative">
         <Image src={images[0]} alt="image" fill className="object-cover" />
