@@ -20,14 +20,14 @@ const sliderImage: SliderImage[] = [
     id: 1,
     review:
       "Really enjoying my yoga journey with Preeti Ma'am and Anushka. They are really supportive and ensure that everyone feels comfortable in all yoga postures by giving alternate asana options and relax times between asanas.",
-    image: "/images/h1-blog-list-img-new.jpg",
+    image: "/images/h1-event-img-3.jpg",
     name: "John Doe",
   },
   {
     id: 2,
     review:
       "Yoga has transformed my life, providing me with the tools to manage stress and find inner peace.",
-    image: "/images/h1-event-img-2.jpg",
+    image: "/images/h1-event-img-3.jpg",
     name: "Jane Smith",
   },
   {

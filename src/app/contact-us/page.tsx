@@ -9,7 +9,7 @@ const contactUs = () => {
     <section>
       <CommonHero text="Contact Us">
         <Image
-          src={"/images/contact.jpg"}
+          src={"/assets/images/banner.JPG"}
           alt="hero-image"
           width={2100}
           height={2100}

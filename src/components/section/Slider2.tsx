@@ -7,17 +7,15 @@ import { Autoplay } from "swiper/modules";
 
 const images = [
   "/fimage_cleanup.png",
-  "/images/main-home-video-gallery-2.jpg",
-  "/images/main-home-video-gallery-3.jpg",
-  "/images/main-home-video-gallery-1.jpg",
-  "/images/main-home-video-gallery-2.jpg",
-  "/images/main-home-video-gallery-3.jpg",
-  "/images/main-home-video-gallery-1.jpg",
-  "/images/main-home-video-gallery-2.jpg",
-  "/images/main-home-video-gallery-3.jpg",
-  "/images/main-home-video-gallery-1.jpg",
-  "/images/main-home-video-gallery-2.jpg",
-  "/images/main-home-video-gallery-3.jpg",
+  "/abouts-2.png",
+  "/fimage_cleanup.png",
+  "/abouts-2.png",
+  "/fimage_cleanup.png",
+  "/abouts-2.png",
+  "/fimage_cleanup.png",
+  "/abouts-2.png",
+  "/fimage_cleanup.png",
+  "/abouts-2.png",
 ];
 
 const Slider = () => {
