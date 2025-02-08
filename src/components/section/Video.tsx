@@ -33,15 +33,7 @@ const TravelVideo = () => {
             </div>
           </div>
         </div>
-        <div className="absolute right-0 sm:-bottom-32 top-[83%] ">
-          <Image
-            src={"/images/circle-stamp-new-img.png"}
-            alt="circle-stamp-new-img.png"
-            width={160}
-            height={500}
-            className="h-32 w-32 md:h-64 md:w-64"
-          />
-        </div>
+        <div className="absolute right-0 sm:-bottom-32 top-[83%] "></div>
       </div>
     </section>
   );
